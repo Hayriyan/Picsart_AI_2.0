@@ -1,0 +1,8 @@
+classroom_id,building,room_number,capacity
+101,Humanities Hall,HH-101,40
+102,Business School,BS-202,60
+201,Science Center,SC-110,80
+202,Science Center,SC-210,50
+301,Engineering Hall,EH-201,35
+302,Engineering Hall,EH-202,45
+303,Engineering Hall,EH-203,30

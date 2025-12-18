@@ -1,0 +1,9 @@
+student_id,first_name,last_name,email,major_department_id,advisor_instructor_id,enrollment_year
+1001,John,Doe,john.doe@uni.edu,1,10,2022
+1002,Sara,Kim,sara.kim@uni.edu,1,11,2021
+1003,Liam,Brown,liam.brown@uni.edu,2,12,2023
+1004,Noah,Davis,noah.davis@uni.edu,3,13,2022
+1005,Ava,Miller,ava.miller@uni.edu,4,14,2020
+1006,Mia,Wilson,mia.wilson@uni.edu,5,15,2021
+1007,Ethan,Moore,ethan.moore@uni.edu,1,10,2023
+1008,Olivia,Taylor,olivia.taylor@uni.edu,2,12,2022
